@@ -1,0 +1,42 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+}
+
+.section-center{
+    width: 80%;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.section-center h3{
+    text-transform: uppercase;
+    margin: 1rem 0;
+}
+
+.lorem-form{
+    margin-bottom: 3rem;
+}
+
+.btn{
+    padding: 2px 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    background-color: rgb(198, 247, 126);
+    border-color: greenyellow;
+    border-radius: 4px;
+}
+
+.lorem-text{
+    margin: 1rem auto;
+}
+
+.result{
+    margin: 2rem auto;
+}
